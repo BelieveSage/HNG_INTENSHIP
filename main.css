@@ -1,0 +1,14 @@
+body{
+    background: khaki;
+    display:  inline-block;
+    width:100%;
+    padding:20px 30px;
+    font-family: Arial, Helvetica, sans-serif
+}
+/* SYLING THE HEADER*/
+header{
+    background: khaki;
+    color: black;
+    padding: 20px 30px;
+}
+
